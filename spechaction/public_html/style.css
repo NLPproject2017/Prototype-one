@@ -1,0 +1,33 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+
+body {
+    font-family: monospace;
+    font-size: 18px;
+} 
+body {
+    font-family: monospace;
+    font-size: 18px;
+} 
+.inputTextNote {
+    font-size: 18px;
+    width: 350px;
+    height: 200px;
+    align-content: center;
+}
+.button {
+   
+    background-color: lightblue;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
